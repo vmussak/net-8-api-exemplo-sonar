@@ -1,0 +1,6 @@
+@ExemploSonar_HostAddress = http://localhost:5161
+
+GET {{ExemploSonar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
